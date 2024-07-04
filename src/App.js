@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          CI/CD với github action, tự động deploy qua github pages
+          CI/CD với github action, tự động deploy qua github pages v2
         </p>
         <a
           className="App-link"
